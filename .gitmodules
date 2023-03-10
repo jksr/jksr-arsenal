@@ -1,0 +1,3 @@
+[submodule "libs/clustering/ManDendro"]
+	path = libs/clustering/ManDendro
+	url = https://github.com/jksr/mandendro
