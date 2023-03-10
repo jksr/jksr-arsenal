@@ -1,0 +1,1 @@
+from SmartTask.smarttask import SmartTask
