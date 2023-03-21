@@ -1,5 +1,5 @@
 # adapted from https://github.com/theislab/scanpy/issues/181#issuecomment-534867254
-def grouped_obs_mean(adata, group_key, mean_func=None, layer=None, gene_symbols=None):
+def group_obs_mean(adata, group_key, mean_func=None, layer=None, gene_symbols=None):
     from scipy.sparse import issparse
     import numpy as np
     import pandas as pd

@@ -1,0 +1,1 @@
+from predefined_colors import color40, color80, color256, color1024
